@@ -3,7 +3,7 @@
 #it is predefined function of python it is used to dislay on a terminal
 name='Tejas Sonawane'
 print('My Self ',name)
-
+# 
 #var like a object
 num=100 #object
 print('ID of Num Is: ',id(num)) #id this use for checking the id of the object
